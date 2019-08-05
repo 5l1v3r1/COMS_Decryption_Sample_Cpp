@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StCMXRFileGettor", "StCMXRFileGettor.vcproj", "{21AA48A6-951A-4485-9E8E-64E00BB9C22D}"
+EndProject
+Global
+	GlobalSection(DPCodeReviewSolutionGUID) = preSolution
+		DPCodeReviewSolutionGUID = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21AA48A6-951A-4485-9E8E-64E00BB9C22D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{21AA48A6-951A-4485-9E8E-64E00BB9C22D}.Debug|Win32.Build.0 = Debug|Win32
+		{21AA48A6-951A-4485-9E8E-64E00BB9C22D}.Release|Win32.ActiveCfg = Release|Win32
+		{21AA48A6-951A-4485-9E8E-64E00BB9C22D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
